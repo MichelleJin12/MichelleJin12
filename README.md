@@ -1,3 +1,7 @@
+## I'm Python Developer.
+
+---
+
 - 👋 Hi, I’m @MichelleJin12
 - 👀 I’m interested in Linux System, and System Programming.
 - 🌱 I’m currently learning C, Python.
